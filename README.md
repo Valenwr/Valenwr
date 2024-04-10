@@ -3,9 +3,9 @@
 I'm an electronics engineer based in Málaga, Spain with a strong academic foundation in various fields, including instrumentation, control systems, PCB design, biomedical engineering, digital image processing, and industrial automation. I am passionate about applying my skills to develop innovative solutions and contribute to meaningful projects.
 
 ## Skills
-📜 Language: Python, C, MATLAB <br>
+📜 Language: Python, C, MATLAB, SQL <br>
 ✏ Electronics Design Software: Altium <br>
 🔧 IDE's: Visual Studio Code, PyCharm, MPLAB X <br>
-🛢 Database: SQL Server Management Studio <br>
+🛢 Database: SQL Server <br>
 ⚡ PLC Programming: Ladder (Ladder Logic), Zelio Soft <br>
 👨🏼‍🎨 Simulation Software: Simulink, Multisim, Proteus <br>

@@ -1,6 +1,6 @@
 # Hi, I'm Valentina👋 Check out my personal projects!
 
-I'm an electronics engineer based in Málaga, Spain with a strong academic foundation in various fields, including instrumentation, control systems, PCB design, biomedical engineering, digital image processing, and industrial automation. I am enthusiastic about applying my skills to develop innovative solutions and contribute to meaningful projects.
+I'm an electronics engineer with a strong academic foundation in various fields, including instrumentation, control systems, PCB design, biomedical engineering, digital image processing, and industrial automation. I am enthusiastic about applying my skills to develop innovative solutions and contribute to meaningful projects.
 
 ## Skills
 📜 Language: Python, C, MATLAB, SQL <br>

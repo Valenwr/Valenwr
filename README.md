@@ -1,6 +1,8 @@
 # Hi, I'm Valentina👋 Check out my personal projects!
 
-I'm an electronics engineer with a strong academic foundation in various fields, including instrumentation, control systems, PCB design, biomedical engineering, digital image processing, and industrial automation. I am enthusiastic about applying my skills to develop innovative solutions and contribute to meaningful projects.
+I am an electronic engineer with experience in data analysis and Python programming. My passion for technology and innovation led me to the fascinating world of artificial intelligence, a field full of opportunities and challenges. On this exciting journey of learning and self-discovery, I have found my calling as an aspiring artificial intelligence engineer.
+
+Additionally, I have rediscovered writing, one of my great childhood passions. Now, I am dedicated to sharing knowledge and continuously learning, combining my love for technology with the art of communication.
 
 ## Skills
 📜 Language: Python, C, MATLAB, SQL <br>
